@@ -1,0 +1,21 @@
+{
+  "name": "agenomicsphd-light",
+  "displayName": "agenomicsphd-light",
+  "description": "cozy light mode theme made by @agenomicsphd!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "agenomicsphd-light",
+        "uiTheme": "vs",
+        "path": "./themes/agenomicsphd-light-color-theme.json"
+      }
+    ]
+  }
+}
